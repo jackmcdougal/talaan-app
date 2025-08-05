@@ -38,4 +38,3 @@ unittest.commands = /usr/bin/qmltestrunner -input $$PWD/talaan/tests/unit
 unittest.depends  = sub-talaan
 
 QMAKE_EXTRA_TARGETS += aptest unittest
-

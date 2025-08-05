@@ -59,6 +59,11 @@
         <file>library/DBUtils.js</file>
         <file>library/DBUtilities.js</file>
         <file>library/DataProcess.js</file>
+        <!-- NEW FILES ADDED FOR MARKDOWN SUPPORT -->
+        <file>library/MarkdownFileManager.js</file>
+        <file>library/QtFileInterface.qml</file>
+	<file>library/SimpleMarkdownManager.js</file>
+        <!-- END NEW FILES -->
         <file>assets/images/background@small.png</file>
         <file>assets/images/background@medium.png</file>
         <file>assets/images/background.png</file>

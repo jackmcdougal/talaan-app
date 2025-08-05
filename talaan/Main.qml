@@ -6,8 +6,8 @@ import "components"
 import "ui"
 import "library/MetaData.js" as MetaData
 import "library/DataProcess.js" as DataProcess
+import "library/SimpleMarkdownManager.js" as SimpleMarkdownManager
 import "library"
-
 
 MainView {
     id: mainView
@@ -98,14 +98,15 @@ MainView {
 
     Component.onCompleted: {
         //Meta data processing
+        DataProcess.initializeSystem()
         MetaData.createInitialData()
         DataProcess.cleanSaved()
         DataProcess.cleanNormalLists()
         MetaData.executeUserVersion1()
         MetaData.executeUserVersion2()
         MetaData.executeUserVersion3()
-
         defaultTabLoader.active = true
+        settings.currentTheme = settings.getSettings("CurrentTheme")
     }
 
     Keys.onPressed: {

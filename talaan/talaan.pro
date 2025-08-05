@@ -187,4 +187,8 @@ DISTFILES += \
     components/TabActions.qml \
     components/ListPage.qml \
     components/BottomEdgeMenu.qml \
+    library/MarkdownFileManager.js \
+    library/QtFileInterface.qml \
+    library/DBUtilities.js \
+    library/SimpleMarkdownManager.js \
     library/WorkerScripts/BottomMenuLoader.js

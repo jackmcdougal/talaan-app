@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-05 02:08+0000\n"
+"POT-Creation-Date: 2025-08-05 21:11+0000\n"
 "PO-Revision-Date: 2021-04-05 15:13+0200\n"
 "Last-Translator: Anne017\n"
 "Language-Team: \n"
@@ -16,40 +16,40 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/Main.qml:254
+#: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/Main.qml:255
 #: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/components/TabActions.qml:19
 #: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/ui/DefaultTab.qml:24
 msgid "Lists"
 msgstr "Listes"
 
-#: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/Main.qml:263
+#: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/Main.qml:264
 #: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/components/TabActions.qml:31
 #: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/ui/HistoryTab.qml:24
 msgid "History"
 msgstr "Historique"
 
-#: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/Main.qml:272
+#: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/Main.qml:273
 #: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/components/TabActions.qml:25
 #: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/ui/SavedTab.qml:24
 msgid "Saved"
 msgstr "Enregistrées"
 
-#: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/Main.qml:280
+#: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/Main.qml:281
 #: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/components/TabActions.qml:38
 #: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/ui/SettingsTab.qml:17
 msgid "Settings"
 msgstr "Paramètres"
 
-#: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/Main.qml:399
-#: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/Main.qml:408
+#: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/Main.qml:400
+#: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/Main.qml:409
 msgid "No list selected"
 msgstr "Aucune liste sélectionnée"
 
-#: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/Main.qml:401
+#: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/Main.qml:402
 msgid "Select a list from the left column"
 msgstr "Sélectionnez une liste dans la colonne de gauche"
 
-#: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/Main.qml:410
+#: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/Main.qml:411
 msgid "Select an item from the List, Saved or History tab"
 msgstr ""
 "Sélectionnez un élément dans l'onglet Liste, Enregistrées ou Historique"
@@ -354,6 +354,11 @@ msgstr "Vous avez déjà utilisé %1 ? <b>Ignorez le tutoriel</b>"
 #: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/ui/ItemsPage.qml:680
 msgid "Skip"
 msgstr "Ignorer"
+
+#: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/library/ListModels.qml:67
+#: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/library/ListModels.qml:74
+msgid "Add new"
+msgstr ""
 
 #: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/ui/About.qml:15
 #: /home/jmacdonald/Projects/UT/talaan/talaan-app/talaan/ui/SettingsTab.qml:482
